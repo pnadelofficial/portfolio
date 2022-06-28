@@ -1,0 +1,13 @@
+
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+.header{
+    background-color: black;
+    padding: 50px;
+    background-image: url("Simone_Martini_-_Guidoriccio_da_Fogliano_-_Google_Art_Project.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: 0% 20%;
+}
